@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-miel-silvestre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Labios de miel silvestre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel-silvestre/) |
+| **Get License** | [Secure Licensing Rights for Labios de miel silvestre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel-silvestre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de miel silvestre me roban la calma
+> Una sola mirada que penetra el alma
+> Te quiero aquí cerquita, quemando mi piel
+> Con ese veneno dulce que sabe a la miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
