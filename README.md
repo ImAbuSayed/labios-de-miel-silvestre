@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-miel-silvestre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios de miel silvestre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel-silvestre/) |
+| **Get License** | [Secure Licensing Rights for Labios de miel silvestre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel-silvestre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `29f0d137c394cbdce42b66e4215c90d8567a3ccd5f51b4c50898075469473772` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `fe45cbb6a25685798600cd7ae953a7117e9cded0cd7608abe91837a26b33a9b1` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
